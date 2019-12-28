@@ -1,0 +1,231 @@
+WEBVTT
+
+1
+00:00:00.025 --> 00:00:10.025
+[MUSIC]
+
+2
+00:00:20.237 --> 00:00:24.132
+Congratulations on finishing the Visual
+Perception for Self-Driving cars course.
+
+3
+00:00:24.132 --> 00:00:28.350
+The concept that you have learned in
+this course are a fundamental part
+
+4
+00:00:28.350 --> 00:00:30.932
+of any self-driving car software stack.
+
+5
+00:00:30.932 --> 00:00:33.760
+Let us summarize what you've learned so
+far.
+
+6
+00:00:34.900 --> 00:00:36.803
+During the first week of this course,
+
+7
+00:00:36.803 --> 00:00:40.460
+you have learned the fundamentals
+of 3D computer vision.
+
+8
+00:00:40.460 --> 00:00:44.260
+And how to perform filtering operations
+using the cross-correlation and
+
+9
+00:00:44.260 --> 00:00:46.350
+convolution operators.
+
+10
+00:00:46.350 --> 00:00:48.999
+You also use these fundamental
+operations to create
+
+11
+00:00:48.999 --> 00:00:51.174
+a baseline obstacle avoidance software.
+
+12
+00:00:52.844 --> 00:00:56.855
+During the second week of the course, you
+learned how to distill useful information
+
+13
+00:00:56.855 --> 00:01:00.755
+from the images through feature
+detection and description.
+
+14
+00:01:00.755 --> 00:01:04.525
+You then learned how to use these
+features to get odometry estimates
+
+15
+00:01:04.525 --> 00:01:06.695
+using visual odometry.
+
+16
+00:01:06.695 --> 00:01:10.695
+Due to the limitations of the classical
+approaches to visual perception,
+
+17
+00:01:10.695 --> 00:01:13.484
+we targeted deep neural
+networks during week three.
+
+18
+00:01:14.850 --> 00:01:17.790
+You learned the basic building
+blocks of deep neural networks and
+
+19
+00:01:17.790 --> 00:01:19.220
+how to train them.
+
+20
+00:01:19.220 --> 00:01:23.180
+You then learned about a special
+type of feetforward neural network,
+
+21
+00:01:23.180 --> 00:01:24.720
+the Convolutional Neural Network.
+
+22
+00:01:26.130 --> 00:01:27.800
+You explored convnets for
+
+23
+00:01:27.800 --> 00:01:31.380
+2D object detection in
+the fourth week of the course.
+
+24
+00:01:31.380 --> 00:01:34.770
+You learned the 2D object
+detection problem formulation.
+
+25
+00:01:34.770 --> 00:01:37.400
+How to train a 2D object detector.
+
+26
+00:01:37.400 --> 00:01:39.900
+And how to use 2D object
+detection output to
+
+27
+00:01:39.900 --> 00:01:43.750
+augment the perception stack
+of a self-driving car.
+
+28
+00:01:43.750 --> 00:01:48.033
+The final topic you studied in this
+course was semantic segmentation.
+
+29
+00:01:48.033 --> 00:01:49.060
+During week five,
+
+30
+00:01:49.060 --> 00:01:52.660
+you learned how to formulate
+the semantic segmentation problem.
+
+31
+00:01:52.660 --> 00:01:56.773
+How to use convnets to perform semantic
+segmentation using the feature
+
+32
+00:01:56.773 --> 00:01:58.500
+decoder model.
+
+33
+00:01:58.500 --> 00:02:01.410
+And how to use the output
+of semantic segmentation
+
+34
+00:02:01.410 --> 00:02:06.210
+to perform drivable surface estimation and
+lean segmentation.
+
+35
+00:02:06.210 --> 00:02:09.590
+Finally, you put all this knowledge
+together to create a self-driving
+
+36
+00:02:09.590 --> 00:02:12.900
+car obstacle avoidance system
+in the carless simulator.
+
+37
+00:02:14.230 --> 00:02:18.660
+The concepts introduced in this course
+are a very active area of research.
+
+38
+00:02:18.660 --> 00:02:22.200
+And I encourage you to dig deeper
+into these fascinating topics
+
+39
+00:02:22.200 --> 00:02:26.100
+by reading the latest papers and
+following announcements within the field.
+
+40
+00:02:27.140 --> 00:02:31.520
+To get started, I've provided you with
+a list of supplementary materials
+
+41
+00:02:31.520 --> 00:02:35.532
+that will expand your understanding of
+the rich field of visual perception for
+
+42
+00:02:35.532 --> 00:02:36.356
+self-driving cars.
+
+43
+00:02:37.470 --> 00:02:40.920
+In the next course, I will introduce
+the final set of components in
+
+44
+00:02:40.920 --> 00:02:43.360
+the self-driving car stack,
+motion planning.
+
+45
+00:02:44.478 --> 00:02:46.995
+As you learned,
+motion planning is a complex,
+
+46
+00:02:46.995 --> 00:02:51.250
+multi-skill problem with many interesting
+challenges for you to explore.
+
+47
+00:02:51.250 --> 00:02:54.615
+So join me in the next step of
+your journey towards mastering
+
+48
+00:02:54.615 --> 00:02:56.782
+the tech behind self-driving cars.
+
+49
+00:02:56.782 --> 00:03:06.782
+[MUSIC]
